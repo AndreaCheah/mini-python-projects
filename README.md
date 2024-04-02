@@ -1,3 +1,3 @@
-# mini-python-projects
+# mini python projects
  
 Built these just for fun :)
